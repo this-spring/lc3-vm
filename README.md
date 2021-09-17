@@ -1,5 +1,5 @@
 # lc3-vm
-just a vm  
+just a vm. i will share vm in one month later. let us making vm.  
 
 # source 
 ## js version vm
